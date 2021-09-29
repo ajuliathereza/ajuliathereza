@@ -11,7 +11,7 @@
   <a href = "mailto:m00nlh3r@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/júlia-t-alves-dos-santos-27151a215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ <IMG SRC="https://i.pinimg.com/originals/65/f3/42/65f342137b9a315311b97b1ee2df979c.gif" >
  
 </div>
   
