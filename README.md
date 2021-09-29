@@ -1,6 +1,6 @@
 ## Hey, you! I'm Júlia
 <div align="center">
- <IMG SRC="https://i.gifer.com/7jnE.mp4">.
+ <IMG SRC="https://giffiles.alphacoders.com/171/171343.gif">.
 
   ##
  
