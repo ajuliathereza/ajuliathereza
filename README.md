@@ -25,6 +25,14 @@ Thank you for being here so far
 please come back as you want.
 
 ##
+ 
+ 
+ Sou uma estudante de Análise e Desenvolvimento de Sistemas, programação e produção de áudio.
+Eu estive trabalhando por um longo tempo com educação musical, onde tive muitos alunos de instrumentos diversos.
+Agora, eu estou me dedicando a melhorar minhas habilidades em programação com projetos, aumentando meu portfólio;
+
+Obrigada por se interessar até aqui 
+Por favor volte quando quiser.
     
  <IMG SRC="https://uploads.spiritfanfiction.com/fanfics/historias/202004/escrever-e-facil-19026939-210520201405.gif" height="300" width="800">.   
 
