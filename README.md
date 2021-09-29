@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/ajuliathereza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajuliathereza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fgaming-gamer-game-time-saturday-saturday-night-gif-14799443&psig=AOvVaw1SonDqitouiw25WGYtjuxJ&ust=1632968134441000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCLiy_KWPo_MCFQAAAAAdAAAAABAI"/>
+  
 
   ##
  
@@ -27,8 +27,10 @@ Now, I'm dedicating myself to improving my programming skills with projects and 
 Thank you for being here so far
 please come back as you want.
 
-
-
+##
+    
+    
+IMG tag: <IMG SRC="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fgaming-gamer-game-time-saturday-saturday-night-gif-14799443&psig=AOvVaw1SonDqitouiw25WGYtjuxJ&ust=1632968134441000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCLiy_KWPo_MCFQAAAAAdAAAAABAI">.
 
 
 ⚡ Fun fact: I'm a musician too
