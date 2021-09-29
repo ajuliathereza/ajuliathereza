@@ -29,7 +29,7 @@ please come back as you want.
 
 
 
-💅 Pronouns: She/Her
+
 
 ⚡ Fun fact: I'm a musician too
 
