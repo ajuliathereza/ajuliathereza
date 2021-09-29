@@ -27,7 +27,7 @@ please come back as you want.
 
 ##
     
- <IMG SRC="https://uploads.spiritfanfiction.com/fanfics/historias/202004/escrever-e-facil-19026939-210520201405.gif" height="200" width="400">.   
+ <IMG SRC="https://uploads.spiritfanfiction.com/fanfics/historias/202004/escrever-e-facil-19026939-210520201405.gif" height="300" width="800">.   
 
 
 
