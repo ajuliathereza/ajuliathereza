@@ -30,8 +30,6 @@ please come back as you want.
 
 
 
-⚡ Fun fact: I'm a musician too
-
 
 
 
