@@ -1,7 +1,7 @@
 ## Hey, you! I'm Júlia
 
- <IMG SRC="https://uploads.spiritfanfiction.com/fanfics/historias/202004/escrever-e-facil-19026939-210520201405.gif" height="180" width="80">.
- <IMG SRC="http://pa1.narvii.com/7088/e0edc729569f06c4c337a4d14ecf282907331d21r1-320-176_00.gif" height="180" width="80">.
+ <IMG SRC="https://uploads.spiritfanfiction.com/fanfics/historias/202004/escrever-e-facil-19026939-210520201405.gif" height="200" width="400">.
+ <IMG SRC="http://pa1.narvii.com/7088/e0edc729569f06c4c337a4d14ecf282907331d21r1-320-176_00.gif" height="200" width="400">.
   ##
  
 <div> 
