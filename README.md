@@ -30,7 +30,7 @@ please come back as you want.
 ##
     
     
-IMG tag: <IMG SRC="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fgaming-gamer-game-time-saturday-saturday-night-gif-14799443&psig=AOvVaw1SonDqitouiw25WGYtjuxJ&ust=1632968134441000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCLiy_KWPo_MCFQAAAAAdAAAAABAI">.
+<IMG SRC="https://c.tenor.com/mhEOwpHpI94AAAAC/gaming-gamer.gif">.
 
 
 ⚡ Fun fact: I'm a musician too
