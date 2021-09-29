@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/ajuliathereza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajuliathereza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- 
+ <img height="180em" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Faminoapps.com%2Fc%2Fotanix%2Fpage%2Fblog%2Fmaleficios-de-ser-um-otaku%2Fl4Yo_qktQuDww6BxrRlrP4E42d8JnrGPEb&psig=AOvVaw1SonDqitouiw25WGYtjuxJ&ust=1632968134441000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCLiy_KWPo_MCFQAAAAAdAAAAABAD"/>
 
   ##
  
