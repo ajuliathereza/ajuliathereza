@@ -1,7 +1,7 @@
 ## Hey, you! I'm Júlia
 
- <IMG SRC="http://pa1.narvii.com/7088/e0edc729569f06c4c337a4d14ecf282907331d21r1-320-176_00.gif" height="250" width="800">.
-  ##
+
+ 
  
 <div> 
   <a href="https://www.youtube.com/channel/UCv7b7jAR9vAVOknn2KNbDSg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
