@@ -21,7 +21,7 @@
  ##
  ##
  ##
- I'm a student of Systems Analysis and Development, Programming and audio production.
+ I'm a student of Systems Analysis and Development and audio production.
 I've been working for a long time on music education and had many students of different musical instruments.
 
 Now, I'm dedicating myself to improving my programming skills with projects and increase my portfolio;
@@ -35,7 +35,7 @@ please come back as you want.
 ⚡
 ⚡
  
- Sou uma estudante de Análise e Desenvolvimento de Sistemas, programação e produção de áudio.
+ Sou uma estudante de Análise e Desenvolvimento de Sistemas e produção de áudio.
 Eu estive trabalhando por um longo tempo com educação musical, onde tive muitos alunos de instrumentos diversos.
 Agora, eu estou me dedicando a melhorar minhas habilidades em programação com projetos, aumentando meu portfólio;
 
