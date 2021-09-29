@@ -1,6 +1,6 @@
 ## Hey, you! I'm Júlia
 <div align="center">
- <IMG SRC="https://uploads.spiritfanfiction.com/fanfics/historias/202004/escrever-e-facil-19026939-210520201405.gif ">.
+ <IMG SRC="https://uploads.spiritfanfiction.com/fanfics/historias/202004/escrever-e-facil-19026939-210520201405.gif">.
 
   ##
  
