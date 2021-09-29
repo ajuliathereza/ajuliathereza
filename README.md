@@ -3,7 +3,7 @@
 
  
  
-<div> 
+<div align="center"> 
   <a href="https://www.youtube.com/channel/UCv7b7jAR9vAVOknn2KNbDSg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/moonlher/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.instagram.com/moonlher/" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
@@ -11,11 +11,16 @@
   <a href = "mailto:m00nlh3r@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/júlia-t-alves-dos-santos-27151a215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- <IMG SRC="https://i.pinimg.com/originals/65/f3/42/65f342137b9a315311b97b1ee2df979c.gif" >
+ 
  
 </div>
   
-  
+ ##
+ ##
+ ##
+ ##
+ ##
+ ##
  I'm a student of Systems Analysis and Development, Programming and audio production.
 I've been working for a long time on music education and had many students of different musical instruments.
 
@@ -24,8 +29,11 @@ Now, I'm dedicating myself to improving my programming skills with projects and 
 Thank you for being here so far
 please come back as you want.
 
-##
- 
+⚡
+⚡
+⚡
+⚡
+⚡
  
  Sou uma estudante de Análise e Desenvolvimento de Sistemas, programação e produção de áudio.
 Eu estive trabalhando por um longo tempo com educação musical, onde tive muitos alunos de instrumentos diversos.
@@ -34,8 +42,13 @@ Agora, eu estou me dedicando a melhorar minhas habilidades em programação com 
 Obrigada por se interessar até aqui 
 Por favor volte quando quiser.
     
- <IMG SRC="https://uploads.spiritfanfiction.com/fanfics/historias/202004/escrever-e-facil-19026939-210520201405.gif" height="300" width="800">.   
-
+ ##
+ ##
+ ##
+ ##
+ ##
+ ##  
+<IMG SRC="https://i.pinimg.com/originals/65/f3/42/65f342137b9a315311b97b1ee2df979c.gif" >
 
 
 
