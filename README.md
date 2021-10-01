@@ -10,8 +10,7 @@
  <a href="https://discord.gg/gRzCCSbE" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:m00nlh3r@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/júlia-t-alves-dos-santos-27151a215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
+   <a href="https://soundcloud.com/moonlher" target="_blank"><img src="https://e7.pngegg.com/pngimages/368/992/png-clipart-logo-soundcloud-computer-icons-sound-cloud-share-icon-music-download-thumbnail.png" height=28 width=35 target="_blank"></a>
  
 </div>
   
