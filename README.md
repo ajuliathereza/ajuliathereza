@@ -24,9 +24,9 @@
  I'm a student of Systems Analysis and Development and audio production.
 I've been working for a long time on music education and had many students of different musical instruments.
 
-Now, I'm dedicating myself to improving my programming skills with projects and increase my portfolio;
+Now, I'm dedicating myself to improving my programming skills with projects increasing my portfolio;
 
-Thank you for being here so far
+Thank you for being here so far and
 please come back as you want.
 
 ⚡
