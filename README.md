@@ -8,7 +8,7 @@
    <a href="https://www.youtube.com/channel/UCv7b7jAR9vAVOknn2KNbDSg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/moonlher/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/moonlher" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
-   <a href="https://soundcloud.com/moonlher" target="_blank"><img src="https://e7.pngegg.com/pngimages/368/992/png-clipart-logo-soundcloud-computer-icons-sound-cloud-share-icon-music-download-thumbnail.png" height=28 width=35 target="_blank"></a>
+
  
 </div>
   
