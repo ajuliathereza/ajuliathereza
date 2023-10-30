@@ -17,7 +17,7 @@
  <li> Tenho um espírito livre mas adoro uma rotina </li>
  <li> Sou GAMER, amo jogar video-games e tudo relacionado </li>
  <li> Gosto muito de ler e leio de tudo até o que não me agrada, pois é o conhecimento que me interessa </li>
- <li> Adoro ouvir música </li>
+ <li> Adoro ouvir música de todos os estilos </li>
  
 ⚡
 ⚡
