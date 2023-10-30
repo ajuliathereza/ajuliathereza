@@ -12,12 +12,12 @@
  
 </div>
    Curiosidades:
- <li>##  Sou encantanda pelo universo de The Witcher ##</li>
- <li>##  Sei tocar diversos instrumentos musicais mas meu preferido é o VIOLÃO ##</li>
- <li>##  Tenho um espírito livre mas adoro uma rotina ##</li>
- <li>##  Sou GAMER, amo jogar video-games e tudo relacionado ##</li>
- <li>##  Gosto muito de ler e leio de tudo até o que não me agrada, pois é o conhecimento que me interessa ##</li>
- <li>##  Adoro ouvir música ##</li>
+ <li> Sou encantanda pelo universo de The Witcher </li>
+ <li> Sei tocar diversos instrumentos musicais mas meu preferido é o VIOLÃO </li>
+ <li> Tenho um espírito livre mas adoro uma rotina </li>
+ <li> Sou GAMER, amo jogar video-games e tudo relacionado </li>
+ <li> Gosto muito de ler e leio de tudo até o que não me agrada, pois é o conhecimento que me interessa </li>
+ <li> Adoro ouvir música </li>
  
 ⚡
 ⚡
