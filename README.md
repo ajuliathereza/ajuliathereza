@@ -4,7 +4,7 @@
  
  
 <div align="center"> 
-  <a href="https://steamcommunity.com/id/moonlher" target="_blank"><img src="https://gamertweak.com/wp-content/uploads/2023/04/fix-steam-community-market-disabled.jpg" height=28 width=100 target=_blank"></a>
+  <a href="https://steamcommunity.com/id/moonlher" target="_blank"><img src="https://store.akamai.steamstatic.com/public/shared/images/responsive/header_logo.png" height=28 width=100 target=_blank"></a>
    <a href="https://www.youtube.com/channel/UCv7b7jAR9vAVOknn2KNbDSg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/t3ch1ntrud3r/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/moonlher" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
