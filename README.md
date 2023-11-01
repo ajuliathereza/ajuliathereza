@@ -4,7 +4,7 @@
  
  
 <div align="center"> 
-  <a href="https://steamcommunity.com/id/moonlher" target="_blank"><img src="https://logodownload.org/wp-content/uploads/2018/01/steam-logo.png" height=28 weight=100 target=_blank"></a>
+  <a href="https://steamcommunity.com/id/moonlher" target="_blank"><img src="[https://logodownload.org/wp-content/uploads/2018/01/steam-logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstore.steampowered.com%2F&psig=AOvVaw3nB4XDOks6biRoXJlLGXX9&ust=1698940387734000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjT1aSUo4IDFQAAAAAdAAAAABAE)" height=28 weight=100 target=_blank"></a>
    <a href="https://www.youtube.com/channel/UCv7b7jAR9vAVOknn2KNbDSg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/t3ch1ntrud3r/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/moonlher" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
