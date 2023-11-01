@@ -4,7 +4,7 @@
  
  
 <div align="center"> 
-  <a href="https://steamcommunity.com/id/moonlher" target="_blank"><img src="https://steamuserimages-a.akamaihd.net/ugc/934934697792785950/388C4AD054C9891644F7DB1F95CE8B0E84361B87/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" height=28 weight=200 target=_blank"></a>
+  <a href="https://steamcommunity.com/id/moonlher" target="_blank"><img src="https://steamuserimages-a.akamaihd.net/ugc/934934697792785950/388C4AD054C9891644F7DB1F95CE8B0E84361B87/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" height=28 weight=300 target=_blank"></a>
    <a href="https://www.youtube.com/channel/UCv7b7jAR9vAVOknn2KNbDSg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/t3ch1ntrud3r/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/moonlher" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
