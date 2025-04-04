@@ -2,7 +2,7 @@
 
 > "Talk is cheap. Show me the code." – Linus Torvalds
 
-![Banner Hacker](https://github.com/ajuliathereza/ajuliathereza/blob/main/hack.pn)
+![Banner Hacker](github.com/ajuliathereza/ajuliathereza/blob/main/hack.png?raw=true)
 
 
 
