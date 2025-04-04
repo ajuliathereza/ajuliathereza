@@ -2,7 +2,8 @@
 
 > "Talk is cheap. Show me the code." – Linus Torvalds
 
-![Banner Hacker](https://via.placeholder.com/1500x500/000000/00FF00/?text=Hacker+Code+Theme)
+![Banner Hacker](https://i.imgur.com/sKQn4aS.png)
+
 
 
 
