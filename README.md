@@ -1,44 +1,40 @@
-## OIE GALERES!
+# 🧠 Olá, mundo! Eu sou a Júlia Thereza 💻
 
+> "Talk is cheap. Show me the code." – Linus Torvalds
 
- 
- 
-<div align="center"> 
-  <a href="https://steamcommunity.com/id/moonlher" target="_blank"><img src="https://store.akamai.steamstatic.com/public/shared/images/responsive/header_logo.png" height=28 width=100 target=_blank"></a>
-   <a href="https://www.youtube.com/channel/UCv7b7jAR9vAVOknn2KNbDSg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/t3ch1ntrud3r/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/moonlher" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
+![Banner Hacker](https://i.postimg.cc/YqgKLbKH/hacker-banner.jpg)
 
- 
-</div>
-   Curiosidades:
- <li> Sou encantanda pelo universo de The Witcher </li>
- <li> Sei tocar diversos instrumentos musicais mas meu preferido é o VIOLÃO </li>
- <li> Tenho um espírito livre mas adoro uma rotina </li>
- <li> Sou GAMER, amo jogar video-games e tudo relacionado </li>
- <li> Gosto muito de ler e leio de tudo até o que não me agrada, pois é o conhecimento que me interessa </li>
- <li> Adoro ouvir música de todos os estilos </li>
+## 👨‍💻 Sobre Mim
+Sou um desenvolvedor apaixonado por ** cultura hacker e criatividade na web**. Gosto de transformar ideias em interfaces que respiram tecnologia e exploram os limites da interatividade. Meu objetivo é aprender todos os dias e compartilhar o que sei com a comunidade dev. Se você também curte a vibe hacker, cultura digital e open source, estamos no mesmo time! 💚
 
- 
-⚡
-⚡
-⚡
-⚡
-⚡
- 
+## 🧪 Minhas Skills em desenvolvimento
+```txt
+🕹️ Front-end Dev        💡 Criativo por natureza
+💾 Lógica Hacker         📦 HTML | CSS | JavaScript
+🛠️ Problem Solver        👁️‍🗨️ UI com propósito
+📡 Web Explorer           🔐 Segurança em foco
+```
 
-    
- ##
- ##
- ##
- ##
- ##
- ## 
+## 🌐 Conecte-se Comigo
+- 💼 [LinkedIn](https://linkedin.com/in/juliadevops)
 
- 
-<IMG SRC="https://i.pinimg.com/originals/65/f3/42/65f342137b9a315311b97b1ee2df979c.gif" >
+## 🔐 Hacker Culture & Dev Ethics
+> "Ser hacker é questionar o sistema, explorar o desconhecido, mas sempre com respeito e ética."
 
+```bash
+sudo apt-get install conhecimento
+sudo apt-get install coragem
+sudo apt-get install persistência
+```
 
+## ⚡ Let’s Hack the Web Together!
+Se você chegou até aqui, bora codar algo juntos? Me chama! 💬
+
+---
+
+📎 **Repositório gerenciado por [Júlia Thereza](https://github.com/ajuliathereza)**
+
+🧬 #WebDev #HackerCulture #OpenSource #ImersaoAlura #FrontEnd #JavaScript #CodingLife
 
 
 
