@@ -2,7 +2,8 @@
 
 > "Talk is cheap. Show me the code." – Linus Torvalds
 
-![Banner Hacker](https://i.imgur.com/sKQn4aS.png)
+![Banner Hacker](https://www.fillmurray.com/1500/500)
+
 
 
 
