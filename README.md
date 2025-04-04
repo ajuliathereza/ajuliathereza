@@ -2,7 +2,7 @@
 
 > "Talk is cheap. Show me the code." – Linus Torvalds
 
-![Banner Hacker](https://i.postimg.cc/YqgKLbKH/hacker-banner.jpg)
+![Banner Hacker](https://i.postimg.cc/6pG09hDT/hacker-green-code.jpg)
 
 ## 👨‍💻 Sobre Mim
 Sou um desenvolvedor apaixonado por ** cultura hacker e criatividade na web**. Gosto de transformar ideias em interfaces que respiram tecnologia e exploram os limites da interatividade. Meu objetivo é aprender todos os dias e compartilhar o que sei com a comunidade dev. Se você também curte a vibe hacker, cultura digital e open source, estamos no mesmo time! 💚
