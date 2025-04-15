@@ -2,8 +2,6 @@
 
 > "Talk is cheap. Show me the code." – Linus Torvalds
 
-![Banner Hacker](github.com/ajuliathereza/ajuliathereza/blob/main/hack.png?raw=true)
-
 
 
 
@@ -23,8 +21,8 @@ Sou um desenvolvedor apaixonado por ** cultura hacker e criatividade na web**. G
 ## 🌐 Conecte-se Comigo
 - 💼 [LinkedIn](https://linkedin.com/in/juliadevops)
 
-## 🔐 Hacker Culture & Dev Ethics
-> "Ser hacker é questionar o sistema, explorar o desconhecido, mas sempre com respeito e ética."
+## 🔐  Dev Ethics
+> 
 
 ```bash
 sudo apt-get install conhecimento
