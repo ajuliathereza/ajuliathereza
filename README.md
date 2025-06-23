@@ -50,9 +50,6 @@ Projetos, parcerias, ideias malucas? Me chama.
 📎 Repositório gerenciado por Júlia Thereza
 🧬 #WebDev #HackerCulture #GameOculto #OpenSource #FrontEnd #IndieWeb #CodingLife
 
-yaml
-Copiar
-Editar
 
 
 
