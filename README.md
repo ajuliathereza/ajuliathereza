@@ -7,9 +7,9 @@
 ---
 
 ## 🧠 Sobre mim
-Desenvolvedora independente, hacker criativa e administradora do site [**GameOculto.site**](https://gameoculto.site) — um projeto que vive na fronteira entre games obscuros, cultura digital underground, utilitários e informação livre.
+Desenvolvedora independente, hacker criativa e administradora do site [**GameOculto.site**](https://gameoculto.site) — um projeto que vive na fronteira entre games desconhecidos, cultura digital underground, utilitários e informação livre.
 
-Acredito na liberdade da web, no poder do open source e na criação como forma de resistência.
+Acredito na liberdade da web, no poder do open source e na criação como forma de independência e disruptura.
 
 ---
 
@@ -41,7 +41,7 @@ sudo apt-get install coragem
 sudo apt-get install persistência
 
 
-⚠️ Código é resistência. Web é território livre.
+⚠️ Código é disruptura. Web é território livre.
 
 
 ⚡ Let’s Hack The Web
