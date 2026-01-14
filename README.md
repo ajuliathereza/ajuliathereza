@@ -29,13 +29,14 @@ Acredito que:
 ⚙️ Automação                   → Shell Script | Tarefas Repetitivas
 📊 Monitoramento               → Logs | Recursos | Disponibilidade
 🧠 Mentalidade Hacker          → Curiosidade | Autonomia | DIY
+```
+
 
 🌐 Onde me encontrar
 
 🎯 Site:     https://gameoculto.site
 💼 LinkedIn: https://linkedin.com/in/juliaalvesdossantos
-
-🏴‍☠️ Filosofia SysAdmin
+ 🏴‍☠️ Filosofia SysAdmin
 
 $ sudo apt install conhecimento
 $ sudo apt install paciência
