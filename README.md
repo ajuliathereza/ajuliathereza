@@ -53,8 +53,7 @@ $ sudo apt install responsabilidade
 
 Sistemas sustentam.  
 
-Automação liberta.  
-**
+Automação liberta.**
 
 
 ## 🕹️ Projeto em Produção — GameOculto.site
@@ -71,7 +70,7 @@ Responsabilidades:
 - Monitoramento simples de disponibilidade
 - Estruturação de arquivos e backups
  ```  
- 
+
 "Um sistema vivo ensina mais que qualquer tutorial."
 
 
