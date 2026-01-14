@@ -38,11 +38,11 @@ Acredito que:
 
 
 🌐 Onde me encontrar
+
 🎯 Site: https://gameoculto.site
 💼 LinkedIn: https://linkedin.com/in/juliaalvesdossantos
 
 🏴‍☠️ Filosofia SysAdmin
-
 
 sudo apt install conhecimento
 sudo apt install paciência
@@ -50,15 +50,19 @@ sudo apt install documentação
 sudo apt install responsabilidade
 
 
+```txt
 Código constrói.
 Sistemas sustentam.
 Automação liberta.
+```txt
 
 ⚡ Repositório mantido por Júlia Thereza
 🧬 #SysAdmin #Linux #Infraestrutura #Automação #HackerMindset #OpenSource #GameOculto
 
-## 🕹️ Projeto em Produção
 
+
+## 🕹️ Projeto em Produção
+```txt
 🎮 **GameOculto.site**  
 Projeto independente que administro do zero, unindo cultura digital underground e experimentação técnica.
 
