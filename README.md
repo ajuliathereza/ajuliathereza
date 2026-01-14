@@ -39,7 +39,7 @@ Acredito que:
 
 🌐 Onde me encontrar
 🎯 Site: https://gameoculto.site
-💼 LinkedIn: https://linkedin.com/in/juliadevops
+💼 LinkedIn: https://linkedin.com/in/juliaalvesdossantos
 
 🏴‍☠️ Filosofia SysAdmin
 
