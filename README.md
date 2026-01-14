@@ -32,25 +32,30 @@ Acredito que:
 ```
 
 
-🌐 Onde me encontrar
+## 🌐 Onde me encontrar
 
+```txt
 🎯 Site:     https://gameoculto.site
 💼 LinkedIn: https://linkedin.com/in/juliaalvesdossantos
- 🏴‍☠️ Filosofia SysAdmin
+ ```
+ 
+ ## 🏴‍☠️ Filosofia SysAdmin
+
 
 $ sudo apt install conhecimento
 $ sudo apt install paciência
 $ sudo apt install documentação
 $ sudo apt install responsabilidade
 
-Código constrói.
+
+**Código constrói.
 Sistemas sustentam.
-Automação liberta.
+Automação liberta.**
 
 
-🕹️ Projeto em Produção — GameOculto.site
+## 🕹️ Projeto em Produção — GameOculto.site
 
-
+```txt
 🎮 GameOculto.site
 Projeto independente que administro do zero,
 unindo cultura digital underground e experimentação técnica.
@@ -61,7 +66,7 @@ Responsabilidades:
 - Noções de segurança básica
 - Monitoramento simples de disponibilidade
 - Estruturação de arquivos e backups
-
+ ```
 "Um sistema vivo ensina mais que qualquer tutorial."
 
 
