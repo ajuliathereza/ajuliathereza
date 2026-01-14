@@ -1,55 +1,52 @@
-![Terminal](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFEA&width=600&lines=echo+%22Hello+World%22;sudo+apt+install+creativity;git+clone+GameOculto.site;cd+revoluçãodigital)
+![Terminal](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFEA&width=600&lines=echo+%22Hello+System%22;sudo+apt+install+linux+infra+automation;systemctl+start+curiosity;cd+revolucao_digital)
 
-# 🕶️ Júlia Thereza | @c4tsyst3m
+# 🕶️ Júlia Thereza | @c4tsyst3m  
+### SysAdmin em formação | Linux | Infraestrutura | Automação
 
-> "Talk is cheap. Show me the code." — Linus Torvalds
-
----
-
-## 🧠 Sobre mim
-Desenvolvedora independente, hacker criativa e administradora do site [**GameOculto.site**](https://gameoculto.site) — um projeto que vive na fronteira entre games desconhecidos, cultura digital underground, utilitários e informação livre.
-
-Acredito na liberdade da web, no poder do open source e na criação como forma de independência e disruptura.
+> “In a world full of apps, someone needs to keep the systems alive.”
 
 ---
 
-## 🚀 Tech Stack & Skills
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## 🧠 Sobre mim  
+
+Estudante e entusiasta de Administração de Sistemas, com foco em Linux, automação e infraestrutura.  
+Venho de uma base em desenvolvimento web, mas meu interesse real sempre esteve nos bastidores:  
+onde os sistemas rodam, os serviços vivem e os problemas reais acontecem.
+
+Sou criadora e administradora do projeto [**GameOculto.site**](https://gameoculto.site), onde exploro cultura digital underground, liberdade da web e experimentação técnica.
+
+Acredito que:
+- sistemas estáveis são arte silenciosa  
+- automação é liberdade  
+- documentação é respeito ao futuro  
+
+---
+
+## 🛠️ Tech Stack & Foco Atual
+
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Hacker Mindset](https://img.shields.io/badge/Hacker-%23121011?style=for-the-badge&logo=protonmail&logoColor=white)
-![Indie Web](https://img.shields.io/badge/Indie%20Web-%23000000?style=for-the-badge&logo=internetarchive&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Infra](https://img.shields.io/badge/Infraestrutura-0A192F?style=for-the-badge)
+![Automação](https://img.shields.io/badge/Automação-00FFEA?style=for-the-badge)
 
 ```txt
-💻 Front-End Dev        🔥 HTML | CSS | JavaScript
-🕹️ Web Indie            🎨 UI/UX e Design Criativo
-🔐 Cultura Hacker        📡 Web Explorer
-🧠 Problem Solver        🏴‍☠️ Open Source & DIY Digital
+🖥️ Administração de Sistemas   🔧 Linux | Serviços | Processos
+⚙️ Automação                   📜 Shell Script | Tarefas Repetitivas
+📊 Monitoramento Básico         📡 Logs | Recursos | Disponibilidade
+🧠 Mentalidade Hacker           🏴‍☠️ Curiosidade | Autonomia | DIY
 
 
-🌐 Onde me encontrar
-🎯 Site: gameoculto.site
+## 🕹️ Projeto em Produção
 
-💼 LinkedIn: linkedin.com/in/juliadevops
+🎮 **GameOculto.site**  
+Projeto independente que administro do zero, unindo cultura digital underground e experimentação técnica.
 
+Responsabilidades:
+- 🌐 Administração do site em produção  
+- 🛠️ Manutenção e organização do ambiente  
+- 🔐 Noções de segurança básica  
+- 📡 Monitoramento simples de disponibilidade  
+- 📁 Estruturação de arquivos e backups  
 
-🏴‍☠️ Filosofia Dev
-
-sudo apt-get install conhecimento
-sudo apt-get install coragem
-sudo apt-get install persistência
-
-
-⚠️ Código é disruptura. Web é território livre.
-
-
-⚡ Let’s Hack The Web
-Projetos, parcerias, ideias malucas? Me chama.
-
-📎 Repositório gerenciado por Júlia Thereza
-🧬 #WebDev #HackerCulture #GameOculto #OpenSource #FrontEnd #IndieWeb #CodingLife
-
-
-
-
+> Um sistema vivo ensina mais que qualquer tutorial.
