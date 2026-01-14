@@ -49,9 +49,12 @@ $ sudo apt install responsabilidade
 ```
  
 
-**Código constrói.
-Sistemas sustentam.
-Automação liberta.**
+**Código constrói.  
+
+Sistemas sustentam.  
+
+Automação liberta.  
+**
 
 
 ## 🕹️ Projeto em Produção — GameOculto.site
@@ -67,9 +70,11 @@ Responsabilidades:
 - Noções de segurança básica
 - Monitoramento simples de disponibilidade
 - Estruturação de arquivos e backups
- ```
+ ```  
+ 
 "Um sistema vivo ensina mais que qualquer tutorial."
 
 
-⚡ Repositório mantido por Júlia Thereza
+⚡ Repositório mantido por Júlia Thereza  
+
 🧬 #SysAdmin #Linux #Infraestrutura #Automação #HackerMindset #OpenSource #GameOculto
