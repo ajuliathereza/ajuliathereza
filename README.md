@@ -22,55 +22,47 @@ Acredito que:
 
 ---
 
-## 🛠️ Tech Stack & Foco Atual
-
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Infra](https://img.shields.io/badge/Infraestrutura-0A192F?style=for-the-badge)
-![Automação](https://img.shields.io/badge/Automação-00FFEA?style=for-the-badge)
+## 🧬 Identidade SysAdmin
 
 ```txt
-🖥️ Administração de Sistemas   🔧 Linux | Serviços | Processos
-⚙️ Automação                   📜 Shell Script | Tarefas Repetitivas
-📊 Monitoramento Básico         📡 Logs | Recursos | Disponibilidade
-🧠 Mentalidade Hacker           🏴‍☠️ Curiosidade | Autonomia | DIY
-
+🖥️ Administração de Sistemas   → Linux | Serviços | Processos
+⚙️ Automação                   → Shell Script | Tarefas Repetitivas
+📊 Monitoramento               → Logs | Recursos | Disponibilidade
+🧠 Mentalidade Hacker          → Curiosidade | Autonomia | DIY
 
 🌐 Onde me encontrar
 
-🎯 Site: https://gameoculto.site
+🎯 Site:     https://gameoculto.site
 💼 LinkedIn: https://linkedin.com/in/juliaalvesdossantos
 
 🏴‍☠️ Filosofia SysAdmin
 
-sudo apt install conhecimento
-sudo apt install paciência
-sudo apt install documentação
-sudo apt install responsabilidade
+$ sudo apt install conhecimento
+$ sudo apt install paciência
+$ sudo apt install documentação
+$ sudo apt install responsabilidade
 
-
-```txt
 Código constrói.
 Sistemas sustentam.
 Automação liberta.
-```txt
+
+
+🕹️ Projeto em Produção — GameOculto.site
+
+
+🎮 GameOculto.site
+Projeto independente que administro do zero,
+unindo cultura digital underground e experimentação técnica.
+
+Responsabilidades:
+- Administração do site em produção
+- Organização e manutenção do ambiente
+- Noções de segurança básica
+- Monitoramento simples de disponibilidade
+- Estruturação de arquivos e backups
+
+"Um sistema vivo ensina mais que qualquer tutorial."
+
 
 ⚡ Repositório mantido por Júlia Thereza
 🧬 #SysAdmin #Linux #Infraestrutura #Automação #HackerMindset #OpenSource #GameOculto
-
-
-
-## 🕹️ Projeto em Produção
-```txt
-🎮 **GameOculto.site**  
-Projeto independente que administro do zero, unindo cultura digital underground e experimentação técnica.
-
-Responsabilidades:
-- 🌐 Administração do site em produção  
-- 🛠️ Manutenção e organização do ambiente  
-- 🔐 Noções de segurança básica  
-- 📡 Monitoramento simples de disponibilidade  
-- 📁 Estruturação de arquivos e backups  
-
-> Um sistema vivo ensina mais que qualquer tutorial.
