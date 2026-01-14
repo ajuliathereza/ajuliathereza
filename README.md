@@ -49,10 +49,8 @@ $ sudo apt install responsabilidade
 ```
  
 
-**Código constrói.  
-
-Sistemas sustentam.  
-
+**Código constrói.
+Sistemas sustentam.
 Automação liberta.**
 
 
