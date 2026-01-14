@@ -41,12 +41,13 @@ Acredito que:
  
  ## 🏴‍☠️ Filosofia SysAdmin
 
-
+```txt
 $ sudo apt install conhecimento
 $ sudo apt install paciência
 $ sudo apt install documentação
 $ sudo apt install responsabilidade
-
+```
+ 
 
 **Código constrói.
 Sistemas sustentam.
