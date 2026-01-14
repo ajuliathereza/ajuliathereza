@@ -37,6 +37,26 @@ Acredito que:
 🧠 Mentalidade Hacker           🏴‍☠️ Curiosidade | Autonomia | DIY
 
 
+🌐 Onde me encontrar
+🎯 Site: https://gameoculto.site
+💼 LinkedIn: https://linkedin.com/in/juliadevops
+
+🏴‍☠️ Filosofia SysAdmin
+
+
+sudo apt install conhecimento
+sudo apt install paciência
+sudo apt install documentação
+sudo apt install responsabilidade
+
+
+Código constrói.
+Sistemas sustentam.
+Automação liberta.
+
+⚡ Repositório mantido por Júlia Thereza
+🧬 #SysAdmin #Linux #Infraestrutura #Automação #HackerMindset #OpenSource #GameOculto
+
 ## 🕹️ Projeto em Produção
 
 🎮 **GameOculto.site**  
