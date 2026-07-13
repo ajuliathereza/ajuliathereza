@@ -1,11 +1,22 @@
-````markdown
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFEA&center=false&vCenter=true&width=800&lines=echo+%22Hello+System%22;sudo+systemctl+start+curiosity;sudo+apt+install+linux+automation;watch+-n+1+systemctl+status;cd+/home/julia)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00FFEA&center=true&vCenter=true&width=900&lines=%5B+OK+%5D+Loading+kernel...;%5B+OK+%5D+Starting+NetworkManager...;%5B+OK+%5D+Starting+SSH...;%5B+OK+%5D+Initializing+automation...;%5B+OK+%5D+Mounting+filesystems...;Welcome,+Julia.;Linux+Administrator+in+Training"/>
+</p>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Júlia Thereza | @c4tsyst3m
+<h1 align="center">🐧 Júlia Thereza</h1>
 
-### 🐧 Linux • ⚙️ Infraestrutura • 🔧 Automação • 💻 Suporte Técnico
+<p align="center">
+  <strong>@c4tsyst3m</strong>
+</p>
 
-> *"The best systems are the ones nobody notices — because everything simply works."*
+<p align="center">
+Linux • Infraestrutura • Automação • Bash • Suporte Técnico
+</p>
+
+<p align="center">
+<i>"Good infrastructure is invisible. Great automation is unforgettable."</i>
+</p>
+
+---
 
 ---
 
