@@ -2,10 +2,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00FFEA&center=true&vCenter=true&width=900&lines=%5B+OK+%5D+Loading+kernel...;%5B+OK+%5D+Starting+NetworkManager...;%5B+OK+%5D+Starting+SSH...;%5B+OK+%5D+Initializing+automation...;%5B+OK+%5D+Mounting+filesystems...;Welcome,+Julia.;Linux+Administrator+in+Training"/>
 </p>
 
-<h1 align="center">🐧 Júlia Thereza</h1>
+<h1 align="center">🐧 Júlia Alves</h1>
 
 <p align="center">
-  <strong>@c4tsyst3m</strong>
+  <strong>@moonlher</strong>
 </p>
 
 <p align="center">
