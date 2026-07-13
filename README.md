@@ -1,77 +1,173 @@
-![Terminal](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFEA&width=600&lines=echo+%22Hello+System%22;sudo+apt+install+linux+infra+automation;systemctl+start+curiosity;cd+revolucao_digital)
+````markdown
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFEA&center=false&vCenter=true&width=800&lines=echo+%22Hello+System%22;sudo+systemctl+start+curiosity;sudo+apt+install+linux+automation;watch+-n+1+systemctl+status;cd+/home/julia)
 
-# 🕶️ Júlia Thereza | @c4tsyst3m  
-### SysAdmin em formação | Linux | Infraestrutura | Automação
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Júlia Thereza | @c4tsyst3m
 
-> “In a world full of apps, someone needs to keep the systems alive.”
+### 🐧 Linux • ⚙️ Infraestrutura • 🔧 Automação • 💻 Suporte Técnico
 
----
-
-## 🧠 Sobre mim  
-
-Estudante e entusiasta de Administração de Sistemas, com foco em Linux, automação e infraestrutura.  
-Venho de uma base em desenvolvimento web, mas meu interesse real sempre esteve nos bastidores:  
-onde os sistemas rodam, os serviços vivem e os problemas reais acontecem.
-
-Sou criadora e administradora do projeto [**GameOculto.site**](https://gameoculto.site), onde exploro cultura digital underground, liberdade da web e experimentação técnica.
-
-Acredito que:
-- sistemas estáveis são arte silenciosa  
-- automação é liberdade  
-- documentação é respeito ao futuro  
+> *"The best systems are the ones nobody notices — because everything simply works."*
 
 ---
 
-## 🧬 Identidade SysAdmin
+## 👩‍💻 Sobre mim
 
-```txt
-🖥️ Administração de Sistemas   → Linux | Serviços | Processos
-⚙️ Automação                   → Shell Script | Tarefas Repetitivas
-📊 Monitoramento               → Logs | Recursos | Disponibilidade
-🧠 Mentalidade Hacker          → Curiosidade | Autonomia | DIY
+Sou **Técnica em Desenvolvimento de Sistemas** e atualmente direciono minha carreira para **Administração de Sistemas Linux, Infraestrutura e Automação**.
+
+Minha jornada começou no desenvolvimento, mas encontrei minha verdadeira motivação nos bastidores da tecnologia: administrar serviços, entender sistemas, resolver problemas e automatizar processos.
+
+🎯 Meu objetivo é atuar em áreas como:
+
+- 🐧 Administração Linux
+- 🖥️ Infraestrutura
+- 📡 NOC
+- 🔧 Suporte Técnico
+- ⚙️ Automação
+
+---
+
+## 🚀 Tecnologias
+
+### 🐧 Sistemas Operacionais
+
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)
+
+### ⚙️ Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash)
+![SSH](https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=gnometerminal)
+
+### 💻 Desenvolvimento
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 📚 Atualmente estudando
+
+```text
+✔ Linux Administration
+✔ Bash Scripting
+✔ Git & GitHub
+✔ Redes TCP/IP
+
+⌛ Docker
+⌛ Nginx
+⌛ Apache
+⌛ Systemd
+⌛ Monitoramento
+⌛ Segurança Linux
+⌛ Ansible
+````
+
+---
+
+## 📂 Projetos
+
+Este GitHub é meu laboratório pessoal.
+
+Aqui documento projetos, experimentos e estudos relacionados à infraestrutura, Linux e automação.
+
+```text
+📁 linux-labs
+📁 bash-scripts
+📁 networking
+📁 monitoring
+📁 docker-labs
+📁 server-setup
 ```
 
+---
 
-## 🌐 Onde me encontrar
+## 📈 Roadmap
 
-```txt
-🎯 Site:     https://gameoculto.site
-💼 LinkedIn: https://linkedin.com/in/juliaalvesdossantos
- ```
- 
- ## 🏴‍☠️ Filosofia SysAdmin
+* [x] Git
 
-```txt
-$ sudo apt install conhecimento
-$ sudo apt install paciência
-$ sudo apt install documentação
-$ sudo apt install responsabilidade
+* [x] GitHub
+
+* [x] Linux Básico
+
+* [x] Shell
+
+* [ ] Bash Avançado
+
+* [ ] Docker
+
+* [ ] Nginx
+
+* [ ] Apache
+
+* [ ] SSH Hardening
+
+* [ ] Monitoramento
+
+* [ ] Ansible
+
+* [ ] Kubernetes
+
+---
+
+## 💡 Filosofia
+
+```bash
+sudo apt install conhecimento
+
+sudo apt install curiosidade
+
+sudo apt install documentação
+
+sudo apt install responsabilidade
+
+sudo systemctl restart aprendizado
 ```
- 
 
-**Código constrói.
-Sistemas sustentam.
-Automação liberta.**
+---
 
+## 📊 GitHub
 
-## 🕹️ Projeto em Produção — GameOculto.site
+<p align="center">
 
-```txt
-🎮 GameOculto.site
-Projeto independente que administro do zero,
-unindo cultura digital underground e experimentação técnica.
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-Responsabilidades:
-- Administração do site em produção
-- Organização e manutenção do ambiente
-- Noções de segurança básica
-- Monitoramento simples de disponibilidade
-- Estruturação de arquivos e backups
- ```  
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
 
-"Um sistema vivo ensina mais que qualquer tutorial."
+</p>
 
+---
 
-⚡ Repositório mantido por Júlia Thereza  
+## 🔥 Contribuições
 
-🧬 #SysAdmin #Linux #Infraestrutura #Automação #HackerMindset #OpenSource #GameOculto
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🌐 Contato
+
+<p align="center">
+
+<a href="https://linkedin.com/in/juliaalvesdossantos">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 🐧 "Building reliable systems, one command at a time."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFE7,100:007CF0&height=120&section=footer"/>
+
+</div>
+```
