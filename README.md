@@ -52,11 +52,13 @@ Minha jornada começou no desenvolvimento, mas encontrei minha verdadeira motiva
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash)
 ![SSH](https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=gnometerminal)
 
-### 💻 Desenvolvimento
+## 💻 Linguagens
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -106,7 +108,7 @@ Aqui documento projetos, experimentos e estudos relacionados à infraestrutura, 
 
 * [x] Shell
 
-* [ ] Bash Avançado
+* [X] Bash Avançado
 
 * [ ] Docker
 
