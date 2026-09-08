@@ -1,199 +1,111 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00FFEA&center=true&vCenter=true&width=900&lines=%5B+OK+%5D+Loading+kernel...;%5B+OK+%5D+Starting+NetworkManager...;%5B+OK+%5D+Starting+SSH...;%5B+OK+%5D+Initializing+automation...;%5B+OK+%5D+Mounting+filesystems...;Welcome,+Julia.;Linux+Administrator+in+Training"/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00FFEA&center=true&vCenter=true&width=900&lines=%5B+OK+%5D+Loading+systems...;%5B+OK+%5D+Starting+services...;%5B+OK+%5D+Connecting+projects...;Welcome,+Julia.;Web+Development+%E2%80%A2+Linux+%26+Infrastructure"
+    alt="Typing SVG"
+  />
 </p>
 
-<h1 align="center">🐧 Júlia Alves</h1>
+<h1 align="center">🐧 Júlia Thereza</h1>
 
 <p align="center">
-  <strong>@moonlher</strong>
+  <strong>Desenvolvimento Web • Linux & Infraestrutura</strong>
 </p>
 
 <p align="center">
-Linux • Infraestrutura • Automação • Bash • Suporte Técnico
+  Técnica em Desenvolvimento de Sistemas, apaixonada por entender,
+  construir, configurar e documentar tecnologia.
 </p>
-
-<p align="center">
-<i>"Good infrastructure is invisible. Great automation is unforgettable."</i>
-</p>
-
----
 
 ---
 
 ## 👩‍💻 Sobre mim
 
-Sou **Técnica em Desenvolvimento de Sistemas** e atualmente direciono minha carreira para **Administração de Sistemas Linux, Infraestrutura e Automação**.
+Sou **Técnica em Desenvolvimento de Sistemas** e estou construindo minha carreira em duas frentes principais:
 
-Minha jornada começou no desenvolvimento, mas encontrei minha verdadeira motivação nos bastidores da tecnologia: administrar serviços, entender sistemas, resolver problemas e automatizar processos.
+### 💻 Desenvolvimento Web
 
-🎯 Meu objetivo é atuar em áreas como:
+Gosto de transformar ideias e necessidades reais em soluções para a web, desde o desenvolvimento até a publicação.
 
-- 🐧 Administração Linux
-- 🖥️ Infraestrutura
-- 📡 NOC
-- 🔧 Suporte Técnico
-- ⚙️ Automação
+### 🐧 Linux & Infraestrutura
 
----
+Tenho grande interesse pelos bastidores da tecnologia: sistemas operacionais, hardware, redes, monitoramento, troubleshooting e administração Linux.
 
-## 🚀 Tecnologias
+Minha trajetória também inclui experiência profissional em **infraestrutura de TI em ambiente corporativo**, onde tive contato com monitoramento, redes, documentação técnica e suporte a outros profissionais.
 
-### 🐧 Sistemas Operacionais
-
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)
-
-### ⚙️ Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash)
-![SSH](https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=gnometerminal)
-
-## 💻 Linguagens
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+Hoje estou retomando e aprofundando essa trajetória através de projetos reais, laboratórios e documentação.
 
 ---
 
-## 📚 Atualmente estudando
+## 🧭 Como eu aprendo
+
+Não gosto de estudar uma tecnologia apenas para adicioná-la a uma lista.
+
+Prefiro seguir este caminho:
 
 ```text
-✔ Linux Administration
-✔ Bash Scripting
-✔ Git & GitHub
-✔ Redes TCP/IP
-
-⌛ Docker
-⌛ Nginx
-⌛ Apache
-⌛ Systemd
-⌛ Monitoramento
-⌛ Segurança Linux
-⌛ Ansible
-````
-
----
-
-## 📂 Projetos
-
-Este GitHub é meu laboratório pessoal.
-
-Aqui documento projetos, experimentos e estudos relacionados à infraestrutura, Linux e automação.
-
-```text
-📁 linux-labs
-📁 bash-scripts
-📁 networking
-📁 monitoring
-📁 docker-labs
-📁 server-setup
+Curiosidade
+    ↓
+Estudo
+    ↓
+Teste
+    ↓
+Projeto real
+    ↓
+Troubleshooting
+    ↓
+Documentação
+    ↓
+Conhecimento reutilizável
 ```
 
----
+As tecnologias que aparecem neste perfil são, tecnologias que já utilizei na prática.
 
-## 📈 Roadmap
+## 💻 Desenvolvimento Web
 
-* [x] Git
+### Tecnologias
+<p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> </p>
 
-* [x] GitHub
+### Prática
+- Desenvolvimento de Páginas e Interfaces;
+- Responsividade;
+- Publicação de Sites;
+- Git e GitHub;
+- GitHub Pages;
+- Domínio e DNS;
+- Integração com Serviços Externos;
+- Manutenção e Troubleshooting Web.
 
-* [x] Linux Básico
+ ## 🐧 Linux & Infraestrutura
+<p> <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash"/> <img src="https://img.shields.io/badge/SSH-000000?style=for-the-badge"/> </p>
 
-* [x] Shell
+### Áreas de interesse e prática
+- Instalação e Configuração De Sistemas Operacionais;
+- Linux desktop e Administração de Sistemas;
+- Bash;
+- SSH;
+- Hardware;
+- Diagnóstico e Troubleshooting;
+- Redes;
+- Monitoramento;
+- Logs e Serviços;
+- Documentação técnica.
 
-* [X] Bash Avançado
+Tenho um interesse especial por experimentar sistemas: instalar distribuições, configurar ambientes, testar hardware e entender o que acontece por trás do sistema.
 
-* [ ] Docker
+## 🔧 Ferramentas
+<p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode"/> </p>
+  
+## 📚 Atualmente aprofundando
 
-* [ ] Nginx
-
-* [ ] Apache
-
-* [ ] SSH Hardening
-
-* [ ] Monitoramento
-
-* [ ] Ansible
-
-* [ ] Kubernetes
-
----
-
-## 💡 Filosofia
-
-```bash
-sudo apt install conhecimento
-
-sudo apt install curiosidade
-
-sudo apt install documentação
-
-sudo apt install responsabilidade
-
-sudo systemctl restart aprendizado
-```
-
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats-one-bice.vercel.app/api?username=ajuliathereza&theme=tokyonight&show_icons=true"
-    alt="GitHub Stats"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ajuliathereza&layout=compact&theme=tokyonight"
-    alt="Top Languages"
-  />
-</p>
-
----
-
-## 📈 Atividade
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajuliathereza&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🔥 Contribuições
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
+🐧 Linux Administration
+🌐 Redes TCP/IP
+🔧 Troubleshooting
+📊 Monitoramento
+📝 Documentação técnica
+⚙️ Bash e automação
+🌍 Desenvolvimento Web
 
 ## 🌐 Contato
+<p align="center"> <a href="https://linkedin.com/in/juliaalvesdossantos"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/> </a> </p>
 
-<p align="center">
-
-<a href="https://linkedin.com/in/juliaalvesdossantos">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### 🐧 "Building reliable systems, one command at a time."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFE7,100:007CF0&height=120&section=footer"/>
-
-</div>
-```
+### Email: moonlherju@gmail.com
