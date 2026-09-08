@@ -97,15 +97,15 @@ Tenho um interesse especial por experimentar sistemas: instalar distribuições,
   
 ## 📚 Atualmente aprofundando
 
-🐧 Linux Administration
-🌐 Redes TCP/IP
-🔧 Troubleshooting
-📊 Monitoramento
-📝 Documentação técnica
-⚙️ Bash e automação
-🌍 Desenvolvimento Web
+🐧 Linux Administration  
+🌐 Redes TCP/IP  
+🔧 Troubleshooting  
+📊 Monitoramento  
+📝 Documentação técnica  
+⚙️ Bash e automação  
+🌍 Desenvolvimento Web  
 
 ## 🌐 Contato
-<p align="center"> <a href="https://linkedin.com/in/juliaalvesdossantos"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/> </a> </p>
+<p align="left"> <a href="https://linkedin.com/in/juliaalvesdossantos"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/> </a> </p>
 
 ### Email: moonlherju@gmail.com
